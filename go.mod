@@ -3,7 +3,7 @@ module github.com/gin-gonic/gin
 go 1.22
 
 require (
-	github.com/bytedance/sonic v1.11.6
+	github.com/bytedance/sonic v1.14.1
 	github.com/gin-contrib/sse v0.1.0
 	github.com/go-playground/validator/v10 v10.22.1
 	github.com/goccy/go-json v0.10.5
@@ -11,7 +11,7 @@ require (
 	github.com/mattn/go-isatty v0.0.20
 	github.com/pelletier/go-toml/v2 v2.2.3
 	github.com/quic-go/quic-go v0.48.2
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	github.com/ugorji/go/codec v1.2.12
 	golang.org/x/net v0.35.0
 	google.golang.org/protobuf v1.34.1
@@ -19,16 +19,16 @@ require (
 )
 
 require (
-	github.com/bytedance/sonic/loader v0.1.1 // indirect
-	github.com/cloudwego/base64x v0.1.4 // indirect
-	github.com/cloudwego/iasm v0.2.0 // indirect
+	github.com/bytedance/gopkg v0.1.3 // indirect
+	github.com/bytedance/sonic/loader v0.3.0 // indirect
+	github.com/cloudwego/base64x v0.1.6 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.3 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
 	github.com/google/pprof v0.0.0-20210407192527-94a9f03dee38 // indirect
-	github.com/klauspost/cpuid/v2 v2.0.9 // indirect
+	github.com/klauspost/cpuid/v2 v2.2.9 // indirect
 	github.com/leodido/go-urn v1.4.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421 // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
